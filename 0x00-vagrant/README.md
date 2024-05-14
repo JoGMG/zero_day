@@ -1,7 +1,3 @@
-# Setting up your local coding environment
-## Requirements
-- A `README.md` file at the root of the repo, containing a description of the repository.
-- A `README.md` file, at the root of the folder of this project (i.e. `0x00-vagrant`), describing what this project is about.
 ## Tasks
 0. **Create and setup your Git and GitHub account**
     - You will need Git for this project, you might have to [install it](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your computer if it’s not done yet.
